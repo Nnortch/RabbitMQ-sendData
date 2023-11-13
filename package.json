@@ -1,0 +1,14 @@
+{
+  "name": "amqplib_rmq",
+  "version": "1.0.0",
+  "description": "test rmq",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.10.3"
+  }
+}
